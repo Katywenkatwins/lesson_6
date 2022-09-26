@@ -48,7 +48,7 @@ color: #1E212C;
 }
 .page__img img{
 	margin-bottom: 60px;
-	width: 100%;
+	max-width: 100%;
 }
 .page__maintext {
 	color: #1E212C;
