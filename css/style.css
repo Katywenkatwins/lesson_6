@@ -46,8 +46,9 @@ color: #1E212C;
 	margin-top: 24px;
 	line-height: 1.6;
 }
-.page__img{
+.page__img img{
 	margin-bottom: 60px;
+	width: 100%;
 }
 .page__maintext {
 	color: #1E212C;
@@ -74,7 +75,7 @@ li {
 	font-family: "CircularStd", "Lato", serif ;
 	font-size: 10px;
 	border: 1px #77608d dotted;
-	max-width: 50%;
+	max-width: 80%;
 	margin: 50px auto;
 }
 
